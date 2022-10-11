@@ -41,4 +41,4 @@ This form application can be used in any SPA. And it has several features such a
 * Install all necessary dependencies with `npm install` command.
 * Create database using MongoDB.
 * Place the connection string inside `.env` file and change other variables such as email port host etc.
-* Run script using command npm run develop for server. For client use npm start.
+* Run script using command `npm run develop` for server. For client use `npm start`.
