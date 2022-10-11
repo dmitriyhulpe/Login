@@ -1,19 +1,24 @@
 # Fullstack JWT Login Form
-This repository includes backend part using Node JS and likewise frontend using React JS
+This repository includes backend part using NodeJS and MongoDB and likewise frontend using React JS and TypeScript.
+This form application can be used in any SPA. And it has several features such as:
+* Registration and login with access and refresh tokens.
+* Account confirmation via email.
+* Test function to get all users if you are logged in.
+
 
 ## Backend Stack Technologies and Dependencies
-Node JS
-Express
-MongoDB
-Mongoose
-Nodemailer
-Uuid
-JsonWebToken
-Cors
-Bcrypt
+* NodeJS
+* Express
+* MongoDB
+* Mongoose
+* Nodemailer
+* Uuid
+* JsonWebToken
+* Cors
+* Bcrypt
 
 ## Frontend Stack Technologies
-* React JS
+* ReactJS
 * TypeScript
 * Axios
 * MobX
