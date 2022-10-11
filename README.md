@@ -2,6 +2,7 @@
 This repository includes backend part using NodeJS and MongoDB and likewise frontend using React JS and TypeScript.
 This form application can be used in any SPA. And it has several features such as:
 * Registration and login with access and refresh tokens.
+* Simple email validation.
 * Account confirmation via email.
 * Test function to get all users if you are logged in.
 
